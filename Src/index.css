@@ -1,0 +1,7 @@
+.checked {
+  color: orange;
+}
+.bookmark-form {
+    display:flex;
+    flex-direction:row
+}

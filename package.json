@@ -1,0 +1,12 @@
+{
+  "name": "AllProjectsCode",
+  "version": "1.0.0",
+  "main": "AllProjectsJses.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
